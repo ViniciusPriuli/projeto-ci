@@ -1,0 +1,25 @@
+{
+  "name": "projeto-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusPriuli/projeto-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ViniciusPriuli/projeto-ci/issues"
+  },
+  "homepage": "https://github.com/ViniciusPriuli/projeto-ci#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
